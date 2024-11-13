@@ -1,0 +1,17 @@
+neo4j
+easyocr
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+scipy
+neo4j
+Pillow
+arxiv
+outlines
+python-multipart
+pytesseract
+PyMuPDF
+sentence-transformers
+opencv-python
